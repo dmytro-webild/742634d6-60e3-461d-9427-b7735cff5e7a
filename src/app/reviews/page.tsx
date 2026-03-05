@@ -82,7 +82,7 @@ export default function ReviewsPage() {
               quote: "I've tried many burger joints in Salé, but Yammy Food has the freshest ingredients and fastest service. Their burgers are absolutely delicious!",
               name: "Ahmed El Mansouri",
               role: "Regular Customer",
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-handsome-guy-wearing-green-shirt_141793-122624.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-handsome-guy-wearing-green-shirt_141793-122624.jpg?_wi=7",
               imageAlt: "Ahmed El Mansouri",
             },
             {
@@ -91,7 +91,7 @@ export default function ReviewsPage() {
               quote: "Open until 3:30 AM? Yes, please! After a long day, Yammy Food is my go-to spot. Quality food, reasonable prices, and friendly staff.",
               name: "Fatima Bennani",
               role: "Local Resident",
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-handsome-guy-wearing-green-shirt_141793-122624.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-handsome-guy-wearing-green-shirt_141793-122624.jpg?_wi=8",
               imageAlt: "Fatima Bennani",
             },
             {
@@ -100,7 +100,7 @@ export default function ReviewsPage() {
               quote: "The portion sizes are generous and the prices are fair. 50-100 MAD gives you amazing food. Their tacos are my favorite!",
               name: "Mohamed Karim",
               role: "Food Enthusiast",
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-handsome-guy-wearing-green-shirt_141793-122624.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-handsome-guy-wearing-green-shirt_141793-122624.jpg?_wi=9",
               imageAlt: "Mohamed Karim",
             },
             {
@@ -109,7 +109,7 @@ export default function ReviewsPage() {
               quote: "I ordered delivery during this rainy evening. Arrived hot, fresh, and right on time. No-contact delivery option was perfect. Highly recommend!",
               name: "Leila Chraibi",
               role: "Busy Professional",
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-handsome-guy-wearing-green-shirt_141793-122624.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-handsome-guy-wearing-green-shirt_141793-122624.jpg?_wi=10",
               imageAlt: "Leila Chraibi",
             },
             {
@@ -118,7 +118,7 @@ export default function ReviewsPage() {
               quote: "Took my kids for burgers and tacos last weekend. Everyone loved it! Clean restaurant, fast service, and the staff was super friendly.",
               name: "Hassan Ouaida",
               role: "Family Customer",
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-handsome-guy-wearing-green-shirt_141793-122624.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-handsome-guy-wearing-green-shirt_141793-122624.jpg?_wi=11",
               imageAlt: "Hassan Ouaida",
             },
             {
@@ -127,7 +127,7 @@ export default function ReviewsPage() {
               quote: "Been coming here for months. Every time I order, the quality is consistent. That's what I appreciate most about Yammy Food.",
               name: "Yasmine Fiqhi",
               role: "Loyal Customer",
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-handsome-guy-wearing-green-shirt_141793-122624.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-handsome-guy-wearing-green-shirt_141793-122624.jpg?_wi=12",
               imageAlt: "Yasmine Fiqhi",
             },
           ]}
