@@ -82,7 +82,7 @@ export default function HomePage() {
           tagAnimation="slide-up"
           buttons={[
             { text: "View Menu", href: "/menu" },
-            { text: "Order Now", href: "https://wa.me/212625240927" },
+            { text: "Order on WhatsApp", href: "https://wa.me/212625240927" },
           ]}
           buttonAnimation="slide-up"
           imageSrc="http://img.b2bpic.net/free-photo/attractive-young-woman-eating-french-fries-burger-restaurant_169016-21816.jpg"
@@ -124,7 +124,7 @@ export default function HomePage() {
               id: "8",              name: "Fresh Orange Juice",              price: "20 MAD",              imageSrc: "http://img.b2bpic.net/free-photo/glass-orange-juice-placed-wood_1150-9666.jpg?_wi=1",              imageAlt: "Fresh Orange Juice"},
           ]}
           title="Our Menu"
-          description="Everything from 20-85 MAD. Fresh ingredients, fast preparation. Explore our delicious selection of burgers, sandwiches, tacos, and sides. Every item crafted to satisfy your cravings."
+          description="Explore our delicious selection of burgers, sandwiches, tacos, and sides. Everything is prepared fresh to order with premium ingredients."
           textboxLayout="default"
           useInvertedBackground={false}
           animationType="slide-up"
