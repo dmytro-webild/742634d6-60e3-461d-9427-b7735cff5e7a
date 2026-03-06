@@ -6,40 +6,25 @@ import { ServiceWrapper } from "@/components/ServiceWrapper";
 import Tag from "@/tag/Tag";
 
 const dmSans = DM_Sans({
-  variable: "--font-dm-sans",
-  subsets: ["latin"],
+  variable: "--font-dm-sans",  subsets: ["latin"],
 });
 
 const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
+  variable: "--font-inter",  subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
-  title: "Yammy Food - Fresh Fast Food in Salé | Open 24/7",
-  description: "Order delicious burgers, tacos, and fries from Yammy Food in Salé, Morocco. 4.6★ rated. Dine-in, drive-through, and no-contact delivery available. Open until 3:30 AM.",
-  keywords: "fast food, burgers, tacos, fries, delivery, Salé Morocco, restaurant",
-  metadataBase: new URL("https://yammyfood.com"),
+  title: "Yammy Food - Fresh Fast Food in Salé | Open 24/7",  description: "Order delicious burgers, tacos, and fries from Yammy Food in Salé, Morocco. 4.6★ rated. Dine-in, drive-through, and no-contact delivery available. Open until 3:30 AM.",  keywords: "fast food, burgers, tacos, fries, delivery, Salé Morocco, restaurant",  metadataBase: new URL("https://yammyfood.com"),
   alternates: {
-    canonical: "https://yammyfood.com",
-  },
+    canonical: "https://yammyfood.com"},
   openGraph: {
-    title: "Yammy Food - Delicious Fast Food in Salé",
-    description: "Fresh, fast, and full of flavor. Order your favorite burgers and tacos now!",
-    siteName: "Yammy Food",
-    type: "website",
-    images: [
+    title: "Yammy Food - Delicious Fast Food in Salé",    description: "Fresh, fast, and full of flavor. Order your favorite burgers and tacos now!",    siteName: "Yammy Food",    type: "website",    images: [
       {
-        url: "http://img.b2bpic.net/free-photo/attractive-young-woman-eating-french-fries-burger-restaurant_169016-21816.jpg",
-        alt: "Yammy Food - Delicious Burgers",
-      },
+        url: "http://img.b2bpic.net/free-photo/attractive-young-woman-eating-french-fries-burger-restaurant_169016-21816.jpg",        alt: "Yammy Food - Delicious Burgers"},
     ],
   },
   twitter: {
-    card: "summary_large_image",
-    title: "Yammy Food - Fresh Fast Food Delivery",
-    description: "Order now and taste the difference. Available for dine-in, drive-through, and delivery.",
-    images: ["http://img.b2bpic.net/free-photo/attractive-young-woman-eating-french-fries-burger-restaurant_169016-21816.jpg"],
+    card: "summary_large_image",    title: "Yammy Food - Fresh Fast Food Delivery",    description: "Order now and taste the difference. Available for dine-in, drive-through, and delivery.",    images: ["http://img.b2bpic.net/free-photo/attractive-young-woman-eating-french-fries-burger-restaurant_169016-21816.jpg"],
   },
   robots: {
     index: true,
